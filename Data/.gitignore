@@ -4,5 +4,6 @@ __pycache__/
 *$py.class
 
 .DS_Store
-.csv
+*.csv
+
 !test.csv
